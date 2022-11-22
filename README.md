@@ -29,6 +29,18 @@ This project has a vast scope, it can be used to classify satellite images, dron
 ## Prediction
 ![image](https://user-images.githubusercontent.com/50231750/203336446-f46b9a4e-383e-46c9-888e-093fddd83ceb.png)
 
+## Interface
+![Screenshot from 2022-11-22 17-17-29](https://user-images.githubusercontent.com/50231750/203338799-32f6b609-b261-46a7-a79c-cb64106d567a.png)
+
+## Upload Image
+![Screenshot from 2022-11-22 17-17-43](https://user-images.githubusercontent.com/50231750/203339114-57b583dc-652a-413a-b3f9-20481cbe0a2e.png)
+
+## Output
+![Screenshot from 2022-11-22 17-17-53](https://user-images.githubusercontent.com/50231750/203339179-f910bef9-b552-4ec0-bed8-2cfb4b5504dd.png)
+
+![Screenshot from 2022-11-22 17-18-47](https://user-images.githubusercontent.com/50231750/203339253-a9a9aa67-9ea3-480f-8a15-5f9a7c2ed013.png)
+
+
 
 ## Conclusion
 In this project we saw how we can create a CNN using different layers. Normalizing is an important step when working with any type of dataset. We will use this model to predict the class of the image supplied to the model.
