@@ -20,3 +20,5 @@ This project can be used for educational purposes to get a better understanding 
 
 This project has a vast scope, it can be used to classify satellite images, drone images, google images into different classes like sea, mountain, etc.
 
+## Conclusion
+In this project we saw how we can create a CNN using different layers. Normalizing is an important step when working with any type of dataset. We will use this model to predict the class of the image supplied to the model.
