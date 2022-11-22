@@ -20,5 +20,15 @@ This project can be used for educational purposes to get a better understanding 
 
 This project has a vast scope, it can be used to classify satellite images, drone images, google images into different classes like sea, mountain, etc.
 
+## Model Accuracy
+![image](https://user-images.githubusercontent.com/50231750/203336275-b3b8dac4-3018-403d-9e0d-3ef899d1308e.png)
+
+## Model Loss
+![image](https://user-images.githubusercontent.com/50231750/203336321-fbe1b24b-4a5e-4615-89b5-c940bcc6137e.png)
+
+## Prediction
+![image](https://user-images.githubusercontent.com/50231750/203336446-f46b9a4e-383e-46c9-888e-093fddd83ceb.png)
+
+
 ## Conclusion
 In this project we saw how we can create a CNN using different layers. Normalizing is an important step when working with any type of dataset. We will use this model to predict the class of the image supplied to the model.
